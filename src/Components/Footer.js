@@ -26,9 +26,10 @@ const Footer = () => {
           <span>Testimonials</span>
         </div>
         <div className="footer-section-columns">
+          <span>Contact Us:</span>
+          <br />
           <span>064/422-1599</span>
-          <span>71123</span>
-          <span>East Sarajevo</span>
+          <span>71123, East Sarajevo</span>
           <span>Bosnia and Herzegovina</span>
           <span>Stevogk@gmail.com</span>
         </div>
