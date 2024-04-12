@@ -9,7 +9,7 @@ const Footer = () => {
     <div className="footer-wrapper">
       <div className="footer-section-one">
         <div className="footer-logo-container">
-          <img src={Logo} alt="" />
+          <img alt="Sarajevo Sips" />
         </div>
         <div className="footer-icons">
           <TwitterIcon />
@@ -36,6 +36,7 @@ const Footer = () => {
         <div className="footer-section-columns">
           <span>Terms & Conditions</span>
           <span>Privacy Policy</span>
+          <span>Copyright © 2024 SarajevoPubCrawl, Inc</span>
         </div>
       </div>
     </div>
