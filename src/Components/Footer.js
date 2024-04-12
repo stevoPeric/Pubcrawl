@@ -24,13 +24,13 @@ const Footer = () => {
           <span>Share</span>
           <span>Carrers</span>
           <span>Testimonials</span>
-          <span>Work</span>
         </div>
         <div className="footer-section-columns">
-          <span>244-5333-7783</span>
-          <span>77/A</span>
-          <span>Nawala,Colombo</span>
-          <span>foodie@gmail.com</span>
+          <span>064/422-1599</span>
+          <span>71123</span>
+          <span>East Sarajevo</span>
+          <span>Bosnia and Herzegovina</span>
+          <span>Stevogk@gmail.com</span>
         </div>
         <div className="footer-section-columns">
           <span>Terms & Conditions</span>
