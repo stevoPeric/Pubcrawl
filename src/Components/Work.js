@@ -8,17 +8,17 @@ function Work() {
         {
           image: PickMeals,
           title: "Quality Assurance",
-          text: "We uphold the highest standards of quality in every dish we serve, meticulously sourcing ingredients and maintaining strict hygiene protocols to guarantee a safe and enjoyable dining experience.",
+          text: "We do our best, so you can have a great time! And so far we are doing an awesome job and hope to continue it!",
         },
         {
           image: ChooseMeals,
-          title: "Customizable Orders",
-          text: "Tailor your meal to your liking with our customizable options, allowing you to create a dining experience that suits your preferences perfectly.",
+          title: "Need any Info!",
+          text: "We are here for you for any information needed. Feal free to contact us at any time, we are here for you!",
         },
         {
           image: DeliveryMeals,
-          title: "Good Fast Deliveries",
-          text: "We prioritize speedy deliveries,From kitchen to your table in record time, our commitment to swift service means you'll never have to wait long for your delicious meal to arrive.",
+          title: "No need for a car!",
+          text: "The pubs are all in walking range and we design it so that we dont need any transportations!",
         },
       ];
   return (
@@ -27,7 +27,7 @@ function Work() {
             <p className='primary-subheading'>Work</p>
             <h1 className='primary-heading'>How It Work</h1>
             <p className='primary-text'>
-            we understand the importance of good service. Our friendly staff is here to ensure you have a pleasant dining experience from start to finish.
+            We understand the importance of good service. Our friendly staff is here to ensure you have a pleasant experience from start to finish.
             </p>
         </div>
         <div className='work-section-bottom'>
