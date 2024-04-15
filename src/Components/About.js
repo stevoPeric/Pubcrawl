@@ -5,7 +5,7 @@ import AboutBackgroundImage from "../Assets/about.jpg";
 
 const About = () => {
   return (
-    <div className="about-section-container">
+    <div id="about-section" className="about-section-container">
       <div className="about-background-image-container">
         <img src={AboutBackground} alt="" />
       </div>

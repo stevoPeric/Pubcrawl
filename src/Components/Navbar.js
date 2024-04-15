@@ -45,9 +45,9 @@ const Navbar = () => {
         <image src={Logo} alt="Logo" />
       </div>
       <div className="navbar-links-container">
-        <a href="">About</a>
-        <a href="">Testimonials</a>
-        <a href="">Contact</a>
+        <a href="#about-section">About</a>
+        <a href="#testimonial-section">Testimonials</a>
+        <a href="#contact-section">Contact</a>
        
         <button className="primary-button">Bookings Now</button>
       </div>
