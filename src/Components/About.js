@@ -14,22 +14,17 @@ const About = () => {
         <img src={AboutBackgroundImage} alt="" />
       </div>
       <div className="about-section-text-container">
-        <p className="primary-subheading">About</p>
-        <h1 className="primary-heading">
-          Food Is An Important Part Of A Balanced Diet
+        <p className="primary-about-subheading">About</p>
+        <h1 className="primary-about-heading">
+        Explore Sarajevo's Nightlife with Our Legendary Pub Crawl!
         </h1>
         <p className="primary-text">
-        At FOODIE, we believe that food plays a crucial role in a healthy lifestyle. 
+        Join the Ultimate Adventure through Sarajevo's Hidden Gems
         </p>
         <p className="primary-text">
-        That's why we're committed to offering you delicious meals crafted with quality ingredients, ensuring your dining experience is not only enjoyable but also nourishing.
+        Immerse Yourself in Local Culture, Music, and Cheers at Every Turn! Whether You're a Traveler Exploring the City or a Local Looking for a Night to Remember, Everyone's Invited to Experience the Best Pub Crawl in Town!
         </p>
-        <div className="about-buttons-container">
-          <button className="secondary-button">Learn More</button>
-          <button className="watch-video-button">
-            <PlayArrowIcon /> Watch Video
-          </button>
-        </div>
+        
       </div>
     </div>
   );

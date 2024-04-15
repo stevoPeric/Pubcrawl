@@ -90,6 +90,12 @@ nav {
   /* line-height: 5rem; */
   max-width: 600px;
 }
+.primary-about-heading {
+  font-size: clamp(2rem, 5vw, 3rem);
+  color: #361500;
+  /* line-height: 5rem; */
+  max-width: 600px;
+}
 .primary-text {
   font-size: clamp(1rem, 3vw, 1.5rem);
   max-width: 500px;
@@ -144,6 +150,13 @@ nav {
   font-weight: 700;
   color: #4e0317;
   font-size: 1.15rem;
+}
+.primary-about-subheading {
+  font-weight: 700;
+  color: #4e0317;
+  font-size: 1.15rem;
+  padding-bottom: 20px;
+
 }
 .about-buttons-container {
   margin-top: 2rem;
