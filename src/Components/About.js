@@ -1,7 +1,6 @@
 import React from "react";
 import AboutBackground from "../Assets/about-background.png";
-import AboutBackgroundImage from "../Assets/about-background-image.png";
-import PlayArrowIcon from '@mui/icons-material/PlayArrow';
+import AboutBackgroundImage from "../Assets/about.jpg";
 
 
 const About = () => {
