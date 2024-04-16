@@ -42,13 +42,12 @@ const Navbar = () => {
   return (
     <nav>
       <div className="nav-logo-container">
-        <image src={Logo} alt="Logo" />
+       <p>Sarajevo Sips </p>
       </div>
       <div className="navbar-links-container">
         <a href="#about-section">About</a>
         <a href="#testimonial-section">Testimonials</a>
         <a href="#contact-section">Contact</a>
-       
         <button className="primary-button">Bookings Now</button>
       </div>
       <div className="navbar-menu-container">
