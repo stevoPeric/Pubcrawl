@@ -19,9 +19,9 @@ const Footer = () => {
       </div>
       <div className="footer-section-two">
         <div className="footer-section-columns">
+          <a href="#top-section">Back to Top</a>
           <a href="#about-section">About</a>
           <a href="#testimonial-section">Testimonials</a>
-          <a href="#contact-section">Contact</a>
         </div>
         <div className="footer-section-columns">
           <span>Contact Us:</span>

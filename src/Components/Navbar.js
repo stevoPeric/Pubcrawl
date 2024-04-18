@@ -42,7 +42,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className="nav-logo-container">
-       <p>Sarajevo Sips </p>
+       <p id="top-section">Sarajevo Sips </p>
       </div>
       <div className="navbar-links-container">
         <a href="#about-section">About</a>

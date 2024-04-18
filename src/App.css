@@ -9,8 +9,13 @@ img {
   width: 500px;
   border-radius: 100px;
   max-height: 500px;
-
-
+}
+a {
+  text-decoration: none;
+  margin: 0.25rem 0rem;
+  font-weight: 600;
+  color: #4c4c4c;
+  cursor: pointer;
 }
 .App {
   min-height: 100vh;
