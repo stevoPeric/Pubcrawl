@@ -1,6 +1,6 @@
 import React from 'react'
 import ShotGlass from "../Assets/shot-glass.png";
-import ChooseMeals from "../Assets/smile.svg";
+import Smile from "../Assets/smile.svg";
 import DeliveryMeals from "../Assets/delivery-image.png";
 
 function Work() {
@@ -11,9 +11,9 @@ function Work() {
           text: "Free welcome shot and ofcours its rakija!!!",
         },
         {
-          image: ChooseMeals,
-          title: "Need any Info!",
-          text: "We are here for you for any information needed. Feal free to contact us at any time, we are here for you!",
+          image: Smile,
+          title: "ALL YOU CAN DRINK",
+          text: "All you can drink 60-minute all you can drink (Vodka, Beer).",
         },
         {
           image: DeliveryMeals,
