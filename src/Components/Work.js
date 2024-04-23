@@ -24,10 +24,10 @@ function Work() {
   return (
     <div className='work-section-wrapper'>
         <div className='work-section-top'>
-            <p className='primary-subheading'>Work</p>
-            <h1 className='primary-heading'>How It Work</h1>
+            <p className='primary-subheading'>Acessories</p>
+            <h1 className='primary-heading'>What You Get</h1>
             <p className='primary-text'>
-            We understand the importance of good service. Our friendly staff is here to ensure you have a pleasant experience from start to finish.
+                Free shots for everyone we all drink rakija, later we will try to remmeber what we did last night!!!!
             </p>
         </div>
         <div className='work-section-bottom'>
