@@ -1,6 +1,6 @@
 import React from 'react'
 import ShotGlass from "../Assets/shot-glass.png";
-import ChooseMeals from "../Assets/choose-image.png";
+import ChooseMeals from "../Assets/smile.svg";
 import DeliveryMeals from "../Assets/delivery-image.png";
 
 function Work() {
