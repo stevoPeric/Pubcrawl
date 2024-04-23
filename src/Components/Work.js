@@ -1,14 +1,14 @@
 import React from 'react'
-import PickMeals from "../Assets/pick-meals-image.png";
+import ShotGlass from "../Assets/shot-glass.png";
 import ChooseMeals from "../Assets/choose-image.png";
 import DeliveryMeals from "../Assets/delivery-image.png";
 
 function Work() {
     const workInfoData = [
         {
-          image: PickMeals,
-          title: "Quality Assurance",
-          text: "We do our best, so you can have a great time! And so far we are doing an awesome job and hope to continue it!",
+          image: ShotGlass,
+          title: "FREE WELCOME SHOTS",
+          text: "Free welcome shot and ofcours its rakija!!!",
         },
         {
           image: ChooseMeals,
