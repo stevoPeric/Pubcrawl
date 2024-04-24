@@ -17,7 +17,7 @@ function Work() {
         },
         {
           image: DeliveryMeals,
-          title: "No need for a car!",
+          title: "Odgovornis te za vas",
           text: "The pubs are all in walking range and we design it so that we dont need any transportations!",
         },
       ];
