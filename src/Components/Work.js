@@ -1,7 +1,7 @@
 import React from 'react'
 import ShotGlass from "../Assets/shot-glass.png";
 import Smile from "../Assets/smile.svg";
-import DeliveryMeals from "../Assets/delivery-image.png";
+import DeliveryMeals from "../Assets/discount.png";
 
 function Work() {
     const workInfoData = [
