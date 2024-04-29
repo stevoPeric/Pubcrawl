@@ -6,7 +6,6 @@ Welcome to our pubcrawl website project! This project is built using React, prov
 ## Navbar
 The navigation bar provides easy access to different sections of our website:
 
-- **Home**: Navigate back to the home page to explore our offerings.
 - **About**: View our pubcrawl website.
 - **Testimonials**: Read testimonials from our satisfied customers.
 - **Contact**: Find our pubcrawl's location, contact details, and hours of operation.
