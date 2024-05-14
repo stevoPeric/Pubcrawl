@@ -12,7 +12,7 @@ The navigation bar provides easy access to different sections of our website:
 
 ## Footer
 
-The footer section provides additional information and all you need:
+The footer section provides additional information and all you need
 
 - Contact Information: Find our pubcrawl's address, phone number, and email address.
 - Follow Us: Stay updated by following us on social media platforms.
