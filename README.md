@@ -10,7 +10,7 @@ The navigation bar provides easy access to different sections of our website:
 - **Contact**: Find our pubcrawl's location, contact details, and hours of operation.
 
 
-
+## Footer
 
 The footer section provides additional information and all you need:
 
